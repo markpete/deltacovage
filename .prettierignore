@@ -1,0 +1,3 @@
+# Ignore artifacts:
+code-coverage
+node_modules

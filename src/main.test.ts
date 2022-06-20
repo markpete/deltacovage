@@ -9,5 +9,5 @@ afterAll(() => {
 });
 
 it("does not call actual console.log", () => {
-    console.log("inner");
-  });
+  console.log("inner");
+});

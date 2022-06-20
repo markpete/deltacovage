@@ -1,9 +1,9 @@
 function sum(a: number, b: number): number {
-    return a + b;
+  return a + b;
 }
 
 function subtract(a: number, b: number): number {
-    return a-b;
+  return a - b;
 }
 
-export {sum, subtract};
+export { sum, subtract };
